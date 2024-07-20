@@ -34,7 +34,7 @@ In this task, you'll set up the environment for the lab by opening the starter r
 
 1. Close any informational windows that may open.
 
-1. Change the locale for import settings to **English(United States)** by clicking on File -> Options and settings -> Options
+1. Change the locale for import settings to **English(United Kingdom)** by clicking on File -> Options and settings -> Options
 
 ![img](../Image/04_02.png)
 ![img](../Image/04_03.png)
@@ -138,7 +138,7 @@ In this task, you'll create the **Date** table.
 
 	![Picture 7](../Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image17.png)
 
-	> *The dates shown are formatted using US regional settings (that is, mm/dd/yyyy).*
+	> *The dates shown should be shown using UK regional settings (dd/mm/yyyy), unless you are running this lab in a VM and dates are most probably formatted using US regional settings (that is, mm/dd/yyyy).*
 
 5. At the bottom-left corner, in the status bar, notice the table statistics, confirming that 1826 rows of data have been generated, which represents five full years’ data.
 
