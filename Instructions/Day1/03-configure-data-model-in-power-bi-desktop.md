@@ -55,7 +55,7 @@ In this task, you'll create model relationships. The file was configured to not 
 
 1. In the **Manage Relationships** window, notice that no relationships are yet defined.
 
-1. To create a relationship, select **New**.
+1. To create a relationship, select **New Relationship**.
 
 1. In the **Create Relationship** window, in the first dropdown list, select the **Product** table.
 
@@ -83,7 +83,7 @@ In this task, you'll create model relationships. The file was configured to not 
 
 1. Select **OK**, notice in the **Manage Relationships** window that the new relationship is listed, and then select **Close**.
 
-1. Notice there's now a connector between the two tables (it doesn't matter if the tables are positioned next to each other).
+1. Notice that in Model View, there's now a connector between the two tables (it doesn't matter if the tables are positioned next to each other).
     1. You can interpret the cardinality that is represented by the **1** and **(*)** indicators.
     1. Filter direction is represented by the arrow head.
     1. A solid line represents an active relationship; a dashed line represents an inactive relationship.
