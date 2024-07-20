@@ -35,7 +35,7 @@ Liberty Global theme has been applied to the file as well. It is located in the 
 
     > *Tip: By default, the Getting Started dialog box opens in front of Power BI Desktop. Sign-in with your company credentials, and then close the pop-up.*
 
-1. To open the starter Power BI Desktop file in the left pane, select the ** Open  > Browse This Device**.
+1. To open the starter Power BI Desktop file in the left pane, select the **Open  > Browse This Device**.
 
 1. In the **Open** window, navigate to the **C:\PBI_Training\StarterFiles\Lab_01** folder.
 
