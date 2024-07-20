@@ -318,7 +318,7 @@ In this task, you'll configure the **Targets** query.
 
 1. In the **Column1** column, in the first grid cell, commence entering **7/1/2017**, and then press **Enter**.
 
-	> *The virtual machine uses US regional settings, so this date is in fact July 1, 2017. Other regional settings may require a **0** before the date.*
+	> *The virtual machine uses US regional settings, so this date is in fact July 1, 2017. Other regional settings may require a **0** before the date. So if you are using UK based format enter 1/7/2017. If you are not sure which regoinal settings are you using in PowerBI Desktop, you can check those by going to the PowerBI (not PowerQuery window) and select **Options and Settings**, and once there Go to **Regional Settings** on the bottom of of the left pane under **Current File***
 
 1. Notice that the grid cells update with predicted values.
 
@@ -342,7 +342,7 @@ In this task, you'll configure the **Targets** query.
 
 1. To multiply the **Target** values by 1000, select the **Target** column header, and then on the **Transform** ribbon tab, from inside the **Number Column** group, select **Standard**, and then select **Multiply**.
 
-	> *You may recall that the target values were stored as thousands.*
+	> *You may recall that the target values were stored as thousands. If you haven't already, change the type of data to whole number.*
 
      ![Picture 5682](../Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image63.png)
 
