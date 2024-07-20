@@ -35,13 +35,13 @@ Liberty Global theme has been applied to the file as well. It is located in the 
 
     > *Tip: By default, the Getting Started dialog box opens in front of Power BI Desktop. Sign-in with your company credentials, and then close the pop-up.*
 
-1. To open the starter Power BI Desktop file, select the **File > Open Report > Browse Reports**.
+1. To open the starter Power BI Desktop file in the left pane, select the ** Open  > Browse This Device**.
 
 1. In the **Open** window, navigate to the **C:\PBI_Training\StarterFiles\Lab_01** folder.
 
 1. Select the **Sales Analysis** file.
 
-1. Save a copy of the file with **Save As** in to the **C:\PBI_Training\MySolution** folder.
+1. Save a copy of the file with **File > Save As** in to the **C:\PBI_Training\MySolution** folder.
 
 ## **Get data from SQL Server**
 
@@ -198,7 +198,7 @@ In this task, you'll complete the lab.
 
      ![Picture 76](../Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image40.png)
 
-1. Close PowerQuery Editor in **Fome** click **Close and Apply**
+1. Close PowerQuery Editor in **Home** click **Close and Apply**
 
     ![img](../Image/01_03.png)
 
