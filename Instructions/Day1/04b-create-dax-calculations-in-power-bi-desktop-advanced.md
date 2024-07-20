@@ -34,7 +34,7 @@ In this lab you learn how to:
 
 1. Close any informational windows that may open.
 
-1. Change the locale for import settings to **English(United States)** by clicking on File -> Options and settings -> Options
+1. If working on a local machine (not some VM), change the locale for import settings to **English(United Kingdom)** by clicking on File -> Options and settings -> Options
 
 ![img](../Image/04_02.png)
 ![img](../Image/04_03.png)
@@ -75,9 +75,9 @@ In this task, you'll create a matrix visual to support testing your new measures
 
     ![Picture 14](../Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image12.png)
 
-1. In the **Search** box, enter **Stepped**.
+1. In the **Search** box, enter **Layout**.
 
-1. Set the **Stepped Layout** property to **Off**.
+1. Set the **Layout** property to **Tabular**.
 
     ![Picture 49](../Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image14.png)
 
