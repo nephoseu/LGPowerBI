@@ -18,6 +18,11 @@ In this lab you learn how to:
 
 **This lab should take approximately 45 minutes.**
 
+
+:information_source:**If you want to learn more DAX Functions, use the following link**
+[DAX function reference](https://learn.microsoft.com/en-us/dax/dax-function-reference)
+
+
 ## **Work with Filter Context**
 
 *Important: If you're continuing on from the previous lab (and you completed that lab successfully), don't complete this task; instead, continue from the next task.*
