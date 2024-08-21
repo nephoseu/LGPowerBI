@@ -18,7 +18,7 @@ lab:
 
 ## Resource files download
 
-- All setup and resource files can be [downloaded](https://nephossi.github.io/LGPowerBI/AllFilesDownload.zip).
+- All setup and resource files can be [downloaded](https://github.com/nephoseu/LGPowerBI/raw/main/AllfilesDownload.zip).
   - Extract the 'PBI_Training' folder to C:/'.
 
 > &#128221; The prepared reports assume files are located in the 'C:\PBI_Training'. In case you will be using another folder, **ask one of the proctors for help** to change the reports to point to files on your PC.
