@@ -39,7 +39,7 @@ In this lab you learn how to:
 
 1. Close any informational windows that may open.
 
-1. If working on a local machine (not some VM), change the locale for import settings to **English(United Kingdom)** by clicking on File -> Options and settings -> Options
+1. If working on a local machine (not some VM), change the locale for import settings to **English(United States)** by clicking on File -> Options and settings -> Options
 
 ![img](../Image/04_02.png)
 ![img](../Image/04_03.png)
