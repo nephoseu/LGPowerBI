@@ -34,7 +34,7 @@ In this task, you'll set up the environment for the lab by opening the starter r
 
 1. Close any informational windows that may open.
 
-1. Change the locale for import settings to **English(United Kingdom)** by clicking on File -> Options and settings -> Options
+1. Change the locale for import settings to **English(United States)** by clicking on File -> Options and settings -> Options
 
 ![img](../Image/04_02.png)
 ![img](../Image/04_03.png)
