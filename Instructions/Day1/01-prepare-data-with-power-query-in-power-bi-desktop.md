@@ -15,7 +15,7 @@ This lab is designed to introduce you to Power BI Desktop application and how to
 - Preview source data with Power Query
 - Use data profiling features in Power Query
 
-**This lab should take approximately 30 minutes.**
+**This lab should take approximately 30 minutes**
 
 ## **Get started with Power BI Desktop**
 
